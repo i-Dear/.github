@@ -38,15 +38,17 @@
 
 'Sync-D'(이하 '싱크대')는 소규모 개발 팀을 위한 실시간 아이디어 기획 협업 플랫폼입니다. <br/>
 '싱크대'는 12단계에 걸쳐 아이디어를 기획하고, 팀원 간 생각을 동기화할 수 있는 구체적인 가이드라인을 제공합니다.
-<img src="./resources/logo.png">
+<div align="center">
+<img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/logo.png">
 
   <p style="display: flex; justify-content: center; align-items: center;">
-  <a href= "https://youtu.be/wgFf44jLTe8?si=oWdpb6p9YnJqPDtE"  style="width:20%" ><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"  style="width:100%" /></a>
+  <a href= "https://youtu.be/wgFf44jLTe8?si=oWdpb6p9YnJqPDtE" ><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"  style="width:20%" /></a>
   
   </p>
 <p>
 </p>
 <br/>
+</div>
 
 ## 프로젝트 주요 기능
 
@@ -56,90 +58,91 @@
 
 <table style="width:99%">
     <tr>
-        <th style="width:30vw;"> 참가자 표시</th>
-        <th style="width:30vw;"> 이모지</th>
-        <th style="width:30vw;"> 음악 동시 재생</th>
+        <th style="width:33%;"> 참가자 표시</th>
+        <th style="width:33%;"> 이모지</th>
+        <th style="width:33%;"> 음악 동시 재생</th>
     </tr>
     <tr>
-        <td> <img src="./resources/tutorial-collaborators.png"></td>
-        <td><img src="./resources/tutorial-emoji.png"></td>
-        <td><img src="./resources/tutorial-music.png"></td>
-    </tr>
-</table>
-<table style="width:99%">
-    <tr>
-        <th style="width:30vw;"> 싱크</th>
-        <th style="width:30vw;">타이머</th>
-        <th style="width:30vw;">음성 채팅</th>
-    </tr>
-    <tr>
-        <td> <img src="./resources/tutorial-sync.png"></td>
-        <td><img src="./resources/tutorial-timer.png"></td>
-        <td><img src="./resources/tutorial-voice.png"></td>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-collaborators.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-emoji.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-music.png"></td>
     </tr>
 </table>
 <table style="width:99%">
     <tr>
-        <th style="width:30vw;"> 4. 페르소나 설정</th>
-        <th style="width:30vw;"> 5. 문제 정의</th>
-        <th style="width:30vw;">6. 원인 정의</th>
+        <th style="width:33%;"> 싱크</th>
+        <th style="width:33%;">타이머</th>
+        <th style="width:33%;">음성 채팅</th>
     </tr>
     <tr>
-        <td> <img src="./resources/step4.gif"></td>
-        <td><img src="./resources/step5.gif"></td>
-        <td><img src="./resources/step6.gif"></td>
-    </tr>
-</table>
-<table style="width:99%">
-    <tr>
-        <th style="width:30vw;"> 7. 솔루션 탐색</th>
-        <th style="width:30vw;"> 8. 서비스 가치 결정</th>
-        <th style="width:30vw;">9. 비즈니스 모델 선정</th>
-    </tr>
-    <tr>
-        <td> <img src="./resources/step7.gif"></td>
-        <td><img src="./resources/step8.gif"></td>
-        <td><img src="./resources/step9.gif"></td>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-sync.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-timer.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-voice.png"></td>
     </tr>
 </table>
 <table style="width:99%">
     <tr>
-        <th style="width:30vw;"> 10. 유저 시나리오 작성</th>
-        <th style="width:30vw;"> 11. 유저 스토리 작성</th>
-        <th style="width:30vw;">12. 비즈니스 모델 선정</th>
+        <th style="width:33%;"> 4. 페르소나 설정</th>
+        <th style="width:33%;"> 5. 문제 정의</th>
+        <th style="width:33%;">6. 원인 정의</th>
     </tr>
     <tr>
-        <td> <img src="./resources/step10.gif"></td>
-        <td><img src="./resources/step11.gif"></td>
-        <td><img src="./resources/step12.gif"></td>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step4.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step5.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step6.gif"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 7. 솔루션 탐색</th>
+        <th style="width:33%;"> 8. 서비스 가치 결정</th>
+        <th style="width:33%;">9. 비즈니스 모델 선정</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step7.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step8.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step9.gif"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 10. 유저 시나리오 작성</th>
+        <th style="width:33%;"> 11. 유저 스토리 작성</th>
+        <th style="width:33%;">12. 비즈니스 모델 선정</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step10.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step11.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step12.gif"></td>
     </tr>
 </table>
 
 ## 프로젝트 아키텍처
 
 ### 전체 아키텍처
-
+<div align="center">
 <p style="display: flex; justify-content: center; align-items: center;">
-  <img src="./resources/architecture.png" style="width:50%" >
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/architecture.png" style="width:50%" >
 </p>
+</div>
 
 ### 플로우 아키텍처
 
 #### 실시간 협업
 
 <p style="display: flex; justify-content: center; align-items: center;">
-  <img src="./resources/liveblocks.png" style="width:80%" >
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/liveblocks.png" style="width:80%" >
 </p>
 
 #### 프론트엔드
 
 <p style="display: flex; justify-content: center; align-items: center;">
-  <img src="./resources/front-flow.png" style="width:80%" >
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/front-flow.png" style="width:80%" >
 </p>
  
 #### CI/CD
 <p style="display: flex; justify-content: center; align-items: center;">
-  <img src="./resources/cicd-flow.png" style="width:80%" >
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/cicd-flow.png" style="width:80%" >
 </p>
 
 <br/>
