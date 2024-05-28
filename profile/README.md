@@ -1,5 +1,3 @@
-# 💡 실시간 아이디어 기획 협업 플랫폼 Sync-D
-
 <div align=center>
 	<img src="https://github.com/i-Dear/.github/assets/121740394/576d481f-0f1b-4ca1-af84-a1a0fedbaec8" />
 </div>
@@ -123,9 +121,99 @@
 
 ## 프로젝트 주요 기능
 
-<p>
-  <img src="https://github.com/i-Dear/.github/assets/128214672/e3d13769-c98b-4d9c-b6ae-f877fa2707d6" >
+### 공통 컴포넌트
+
+### 기획 프로세스
+
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 참가자 표시</th>
+        <th style="width:33%;"> 이모지</th>
+        <th style="width:33%;"> 음악 동시 재생</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-collaborators.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-emoji.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-music.png"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 싱크</th>
+        <th style="width:33%;">타이머</th>
+        <th style="width:33%;">음성 채팅</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-sync.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-timer.png"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/tutorial-voice.png"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 4. 페르소나 설정</th>
+        <th style="width:33%;"> 5. 문제 정의</th>
+        <th style="width:33%;">6. 원인 정의</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step4.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step5.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step6.gif"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 7. 솔루션 탐색</th>
+        <th style="width:33%;"> 8. 서비스 가치 결정</th>
+        <th style="width:33%;">9. 비즈니스 모델 선정</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step7.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step8.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step9.gif"></td>
+    </tr>
+</table>
+<table style="width:99%">
+    <tr>
+        <th style="width:33%;"> 10. 유저 시나리오 작성</th>
+        <th style="width:33%;"> 11. 유저 스토리 작성</th>
+        <th style="width:33%;">12. 비즈니스 모델 선정</th>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step10.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step11.gif"></td>
+        <td><img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/step12.gif"></td>
+    </tr>
+</table>
+
+## 프로젝트 아키텍처
+
+### 전체 아키텍처
+<div align="center">
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/architecture.png" style="width:50%" >
 </p>
+</div>
+
+### 플로우 아키텍처
+
+#### 실시간 협업
+
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/liveblocks.png" style="width:80%" >
+</p>
+
+#### 프론트엔드
+
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/front-flow.png" style="width:80%" >
+</p>
+ 
+#### CI/CD
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/i-Dear/.github/main/profile/resources/cicd-flow.png" style="width:80%" >
+</p>
+
 <br/>
 
 ## 프로젝트 레포지토리
