@@ -11,7 +11,7 @@
 <br/>
 아래의 링크에서 보다 자세하게 프로젝트를 확인할 수 있습니다.
 
-- 아주대학교 SOFTCON: linklinklinklinklinklinklinklinklink
+- 아주대학교 SOFTCON: [https://softcon.ajou.ac.kr/works/works.asp?uid=1797](https://softcon.ajou.ac.kr/works/works.asp?uid=1797)
 
 # 프로젝트 개요
 
