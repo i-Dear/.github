@@ -3,6 +3,7 @@
 </div>
  
 + 배포 URL : [https://syncd.i-dear.org/](https://syncd.i-dear.org/)
++ 현재 백엔드 도메인 이전 작업중으로 [https://vercel-sync-d-frontend.vercel.app/](https://vercel-sync-d-frontend.vercel.app/) URL을 이용해주세요
 ---
 
 위 프로젝트는 아주대학교 SW캡스톤디자인 과목의 일환으로, 5인으로 구성된 i-dear 팀이 2024년 3월부터 6월까지 진행하였습니다.
